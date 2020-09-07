@@ -1,5 +1,6 @@
 # Manuel Navarro Catalan 
 
+![MENC](Files/pic.jpg)
 
 I am currently a graduate student at Rensselaer Polytechnic Institue working on power system modeling and simulation. My lab's website can ge found [here](https://alsetlab.github.io/).
 
