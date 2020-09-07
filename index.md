@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Manuel Navarro Catalan 
 
-You can use the [editor on GitHub](https://github.com/ManuelNvro/manuelenc.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently a graduate student at Rensselaer Polytechnic Institue working on power system modeling and simulation. 
 
-### Markdown
+## Work Experience
+- Electric Reliability Coucil of Texas, Operations Analysis Intern.
+- Rensselaer Polytechnic Institute, Graduate Research Assistant.
+- Pan American Energy (Buenos Aires, Argentina) , Renewable Energy Intern.
+- 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Teaching
+ - **Dominion Energy**,  Introduction to Power Systems Modeling and Simulation using the Modelica Language.
+ - **McMaster University** , Introduction to Modeling and Simulation using the Modelica Language..
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Publications
 
-1. Numbered
-2. List
+- ["Over Current Relay Modeling using Modelica with Cross-Verification against a Validated Model"](files/Publication1.pdf) presented in Montreal, Canada 2019.
+- ["Performance Benchmark of Modelica Time-Domain Power System Automated Simulation using Python"](files/Publication2.pdf) presented in Boulder, Colorado 2020.
 
-**Bold** and _Italic_ and `Code` text
+## Projects 
+You can find out what I am working it in my [GitHub](https://github.com/ManuelNvro) page.
+Programming Languges:
+  - C.
+  - C++.
+  - MatLab.
+  - Octave.
+  - Modelica., Python, SQL, Latex, Git, Markdown.
+  -
+Modeling Software:
+  - Modelica.
+  - PSS/E.
+  - MatLab/Simulink.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ManuelNvro/manuelenc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+[LinkedIn](https://www.linkedin.com/in/manuel-navarro-catalan/)
+[email](navarm2@rpi.edi)
