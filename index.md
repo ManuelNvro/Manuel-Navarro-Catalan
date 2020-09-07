@@ -9,7 +9,7 @@ I am currently a graduate student at Rensselaer Polytechnic Institue working on 
 - **Pan American Energy** (Buenos Aires, Argentina), Renewable Energy Intern.
 - **KTH Royal Institute of Technology** (Stockholm, Sweden), Undergraduate Research Assistant.
 
-You can find my full resumer [here](https://github.com/ManuelNvro/Manuel-Navarro-Catalan/blob/master/Files/MENCResume.pdf).
+You can find my full resume [here](https://github.com/ManuelNvro/Manuel-Navarro-Catalan/blob/master/Files/MENCResume.pdf).
 
 ## Teaching
  - **Dominion Energy**,  Introduction to Power Systems Modeling and Simulation using the Modelica Language.
