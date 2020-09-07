@@ -9,7 +9,7 @@ I am currently a graduate student at Rensselaer Polytechnic Institue working on 
 - **Pan American Energy** (Buenos Aires, Argentina), Renewable Energy Intern.
 - **KTH Royal Institute of Technology** (Stockholm, Sweden), Undergraduate Research Assistant.
 
-You can find my full resumer [here](Files/MNCResume.pdf).
+You can find my full resumer [here](https://github.com/ManuelNvro/Manuel-Navarro-Catalan/blob/master/Files/MENCResume.pdf).
 
 ## Teaching
  - **Dominion Energy**,  Introduction to Power Systems Modeling and Simulation using the Modelica Language.
@@ -18,8 +18,8 @@ You can find my full resumer [here](Files/MNCResume.pdf).
 
 ## Publications
 
-- ["Over Current Relay Modeling using Modelica with Cross-Verification against a Validated Model"](Files/Publication1.pdf) presented in Montreal, Canada 2019.
-- ["Performance Benchmark of Modelica Time-Domain Power System Automated Simulation using Python"](Files/Publication2.pdf) presented in Boulder, Colorado 2020.
+- ["Over Current Relay Modeling using Modelica with Cross-Verification against a Validated Model"](https://github.com/ManuelNvro/Manuel-Navarro-Catalan/blob/master/Files/Publication1.pdf) presented in Montreal, Canada 2019.
+- ["Performance Benchmark of Modelica Time-Domain Power System Automated Simulation using Python"](https://github.com/ManuelNvro/Manuel-Navarro-Catalan/blob/master/Files/Publication2.pdf) presented in Boulder, Colorado 2020.
 
 ## Projects 
 You can find out what I am working it in my [GitHub](https://github.com/ManuelNvro) page.
