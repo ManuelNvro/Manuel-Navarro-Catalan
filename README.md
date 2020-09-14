@@ -24,7 +24,7 @@ You can find my full resume [here](Files/MENCResume.pdf).
 
 ## Projects 
 You can find out what I am working it in my [GitHub](https://github.com/ManuelNvro) page.
-Programming Languages:
+- Programming Languages:
   - C.
   - C++.
   - MatLab.
@@ -35,7 +35,7 @@ Programming Languages:
   - Latex.
   - Git.
   - Markdown.
-Modeling Software:
+- Modeling Software:
   - Modelica.
   - PSS/E.
   - MatLab/Simulink.
