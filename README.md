@@ -2,7 +2,7 @@
 
 ![MENC](Files/pic.jpg)
 
-I am currently a graduate student at Rensselaer Polytechnic Institue working on power system modeling and simulation. My lab's website can ge found [here](https://alsetlab.github.io/).
+I am currently a graduate student at Rensselaer Polytechnic Institue working on power system modeling and simulation. My lab's website can be found [here](https://alsetlab.github.io/).
 
 ## Work Experience
 - **Electric Reliability Coucil of Texas** (Austin, Texas), Operations Analysis Intern.

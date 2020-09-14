@@ -1,7 +1,8 @@
 # Manuel Navarro Catalan 
 
+![MENC](Files/pic.jpg)
 
-I am currently a graduate student at Rensselaer Polytechnic Institue working on power system modeling and simulation. My lab's website can ge found [here](https://alsetlab.github.io/).
+I am currently a graduate student at Rensselaer Polytechnic Institue working on power system modeling and simulation. My lab's website can be found [here](https://alsetlab.github.io/).
 
 ## Work Experience
 - **Electric Reliability Coucil of Texas** (Austin, Texas), Operations Analysis Intern.
@@ -9,7 +10,7 @@ I am currently a graduate student at Rensselaer Polytechnic Institue working on 
 - **Pan American Energy** (Buenos Aires, Argentina), Renewable Energy Intern.
 - **KTH Royal Institute of Technology** (Stockholm, Sweden), Undergraduate Research Assistant.
 
-You can find my full resume [here](https://github.com/ManuelNvro/Manuel-Navarro-Catalan/blob/master/Files/MENCResume.pdf).
+You can find my full resume [here](Files/MENCResume.pdf).
 
 ## Teaching
  - **Dominion Energy**,  Introduction to Power Systems Modeling and Simulation using the Modelica Language.
@@ -18,12 +19,12 @@ You can find my full resume [here](https://github.com/ManuelNvro/Manuel-Navarro-
 
 ## Publications
 
-- ["Over Current Relay Modeling using Modelica with Cross-Verification against a Validated Model"](https://github.com/ManuelNvro/Manuel-Navarro-Catalan/blob/master/Files/Publication1.pdf) presented in Montreal, Canada 2019.
-- ["Performance Benchmark of Modelica Time-Domain Power System Automated Simulation using Python"](https://github.com/ManuelNvro/Manuel-Navarro-Catalan/blob/master/Files/Publication2.pdf) presented in Boulder, Colorado 2020.
+- ["Over Current Relay Modeling using Modelica with Cross-Verification against a Validated Model"](Files/Publication1.pdf) presented in Montreal, Canada 2019.
+- ["Performance Benchmark of Modelica Time-Domain Power System Automated Simulation using Python"](Files/Publication2.pdf) presented in Boulder, Colorado 2020.
 
 ## Projects 
 You can find out what I am working it in my [GitHub](https://github.com/ManuelNvro) page.
-Programming Languages:
+- Programming Languages:
   - C.
   - C++.
   - MatLab.
@@ -34,7 +35,7 @@ Programming Languages:
   - Latex.
   - Git.
   - Markdown.
-Modeling Software:
+- Modeling Software:
   - Modelica.
   - PSS/E.
   - MatLab/Simulink.
