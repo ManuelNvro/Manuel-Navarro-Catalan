@@ -42,5 +42,5 @@ You can find out what I am working it in my [GitHub](https://github.com/ManuelNv
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/manuel-navarro-catalan/)
-- email: navarm2[at]rpi[dot]edu
+- email: manuelnavarrocatalan[at]gmail[dot]com
 
