@@ -1,6 +1,6 @@
 # Manuel Navarro Catalan 
 
-<img src="https://github.com/ManuelNvro/Manuel-Navarro-Catalan/blob/master/Files/pic.jpg" width="200" class="center"> <img src="https://github.com/ManuelNvro/Manuel-Navarro-Catalan/blob/master/Files/rpi.jpg" width="200" class="center">
+![MENC](Files/pic.jpg)
 
 I am currently a graduate student at Rensselaer Polytechnic Institue working on power system modeling and simulation. My lab's website can be found [here](https://alsetlab.github.io/).
 
