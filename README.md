@@ -19,8 +19,8 @@ You can find my full resume [here](Files/MENCResume.pdf).
 
 ## Publications
 
-- ["Over Current Relay Modeling using Modelica with Cross-Verification against a Validated Model"](Files/Publication1.pdf) presented in Montreal, Canada 2019.
-- ["Performance Benchmark of Modelica Time-Domain Power System Automated Simulation using Python"](Files/Publication2.pdf) presented in Boulder, Colorado 2020.
+- "Over Current Relay Modeling using Modelica with Cross-Verification against a Validated Model" presented in Montreal, Canada 2019.
+- "Performance Benchmark of Modelica Time-Domain Power System Automated Simulation using Python" presented in Boulder, Colorado 2020.
 
 ## Projects 
 You can find out what I am working it in my [GitHub](https://github.com/ManuelNvro) page.
