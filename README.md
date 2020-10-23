@@ -33,12 +33,14 @@ You can find out what I am working it in my [GitHub](https://github.com/ManuelNv
   - Python.
   - SQL.
   - Latex.
-  - Git.
   - Markdown.
-- Modeling Software:
+- Software Tools:
   - Modelica.
   - PSS/E.
   - MatLab/Simulink.
+  - Gtt.
+  - Docker.
+  - Travis-CI.
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/manuel-navarro-catalan/)
