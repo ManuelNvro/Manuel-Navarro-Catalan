@@ -22,6 +22,17 @@ You can find my full resume [here](Files/MENCResume.pdf).
 - ["Over Current Relay Modeling using Modelica with Cross-Verification against a Validated Model"](Files/Publication1.pdf) presented in Montreal, Canada 2019.
 - ["Performance Benchmark of Modelica Time-Domain Power System Automated Simulation using Python"](Files/Publication2.pdf) presented in Boulder, Colorado 2020.
 
+**Under Review**
+
+- "Ancillary Service Requirements Analysis with Increasing Solar Generation in the ERCOT Interconnection"
+
+**Note:** all of the files presented here are author's copies.
+
+## Presentations
+
+- “The Open Instance Power System Library (OpenIPSL): A Modelica Library for Phasor Time-Domain Simulations”. User Presentation. Virtual American Modelica Conference, September 22 - 24, 2020.
+
+
 ## Projects 
 You can find out what I am working it in my [GitHub](https://github.com/ManuelNvro) page.
 - Programming Languages:
