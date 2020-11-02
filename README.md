@@ -2,7 +2,7 @@
 
 ![MENC](Files/pic.jpg)
 
-I am currently a graduate student at Rensselaer Polytechnic Institue working on power system modeling and simulation. My lab's website can be found [here](https://alsetlab.github.io/).
+I am currently a graduate student at Rensselaer Polytechnic Institue working on power system modeling and software applications. My lab's website can be found [here](https://alsetlab.github.io/).
 
 ## Work Experience
 - **Electric Reliability Coucil of Texas** (Austin, Texas), Operations Analysis Intern.
@@ -38,15 +38,16 @@ You can find out what I am working it in my [GitHub](https://github.com/ManuelNv
 - Programming Languages:
   - C.
   - C++.
-  - MatLab.
-  - Octave.
   - Modelica.
   - Python.
   - SQL.
   - Latex.
   - Markdown.
 - Software Tools:
-  - Modelica.
+  - Open Modelica.
+  - Dymola.
+  - MatLab.
+  - Octave.
   - PSS/E.
   - MatLab/Simulink.
   - Gtt.
