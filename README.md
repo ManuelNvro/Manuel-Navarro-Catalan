@@ -13,8 +13,8 @@ I am currently a graduate student at Rensselaer Polytechnic Institue working on 
 You can find my full resume [here](Files/MENCResume.pdf).
 
 ## Teaching
- - **Dominion Energy**,  Introduction to Power Systems Modeling and Simulation using the Modelica Language.
- - **McMaster University** , Introduction to Modeling and Simulation using the Modelica Language.
+ - **Dominion Energy**,  Introduction to Power Systems Modeling and Simulation using the Modelica Language - Richmond, Virginia.
+ - **McMaster University** , [Introduction to Modeling and Simulation using the Modelica Language](https://energy.mcmaster.ca/alsetlab-modelica-workshop-hosted-by-mies/) - Ontario, Canada.
 
 
 ## Publications
