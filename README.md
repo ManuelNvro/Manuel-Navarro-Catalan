@@ -36,9 +36,7 @@ You can find my full resume [here](Files/MENCResume.pdf).
 
 - ["Overcurrent Relay Modeling Using Modelica with Cross-Verification Against a Validated Model"](Files/OverCurrentRelay.pdf) presented at Future Energy Systems Technology Conference in Troy, New York March 2019.
 
-**Under Review**
-
-- ["Model Transformation for High Performing Smart Grid Applications"]() 
+- ["Model Transformation for High Performing Smart Grid Applications"](https://www.youtube.com/watch?v=HX4KDLhzN0Y) presented at the NY-BEST Conference, December 2020. 
 
 
 
