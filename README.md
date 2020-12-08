@@ -12,6 +12,11 @@ I am currently a graduate student at Rensselaer Polytechnic Institue working on 
 
 You can find my full resume [here](Files/MENCResume.pdf).
 
+## Education
+
+- **Rensselaer Polytechnic Institute** May 2020 (Troy, New York), Masters of Science: Electrical Engineering.
+- **The University of Texas at Austin** May 2018 (Austin, Texas), Bachelors of Science: Electrical Engineering.
+
 ## Teaching
  - **Dominion Energy**,  Introduction to Power Systems Modeling and Simulation using the Modelica Language - Richmond, Virginia.
  - **McMaster University** , [Introduction to Modeling and Simulation using the Modelica Language](https://energy.mcmaster.ca/alsetlab-modelica-workshop-hosted-by-mies/) - Ontario, Canada.

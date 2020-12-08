@@ -12,9 +12,15 @@ I am currently a graduate student at Rensselaer Polytechnic Institue working on 
 
 You can find my full resume [here](Files/MENCResume.pdf).
 
+## Education
+
+- **Rensselaer Polytechnic Institute** May 2020 (Troy, New York), Masters of Science: Electrical Engineering.
+- **The University of Texas at Austin** May 2018 (Austin, Texas), Bachelors of Science: Electrical Engineering.
+
 ## Teaching
- - **Dominion Energy**,  Introduction to Power Systems Modeling and Simulation using the Modelica Language.
- - **McMaster University** , Introduction to Modeling and Simulation using the Modelica Language.
+ - **Dominion Energy**,  Introduction to Power Systems Modeling and Simulation using the Modelica Language - Richmond, Virginia.
+ - **McMaster University** , [Introduction to Modeling and Simulation using the Modelica Language](https://energy.mcmaster.ca/alsetlab-modelica-workshop-hosted-by-mies/) - Ontario, Canada.
+
 
 ## Publications
 
@@ -36,6 +42,9 @@ You can find my full resume [here](Files/MENCResume.pdf).
 - ["Overcurrent Relay Modeling Using Modelica with Cross-Verification Against a Validated Model"](Files/OverCurrentRelay.pdf) presented at Future Energy Systems Technology Conference in Troy, New York March 2019.
 
 - ["Model Transformation for High Performing Smart Grid Applications"](https://www.youtube.com/watch?v=HX4KDLhzN0Y) presented at the NY-BEST Conference, December 2020. 
+
+
+
 
 ## Projects 
 You can find out what I am working it in my [GitHub](https://github.com/ManuelNvro) page.
