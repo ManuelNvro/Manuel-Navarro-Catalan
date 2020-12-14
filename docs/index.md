@@ -6,7 +6,7 @@ I am currently a graduate student at Rensselaer Polytechnic Institue working on 
 - **Pan American Energy** (Buenos Aires, Argentina), Renewable Energy Intern.
 - **KTH Royal Institute of Technology** (Stockholm, Sweden), Undergraduate Research Assistant.
 
-You can find my full resume [here](./Files/MENCResume.pdf).
+You can find my full resume [here](Files/MENCResume.pdf).
 
 ## Education
 
@@ -27,8 +27,6 @@ You can find my full resume [here](./Files/MENCResume.pdf).
 
 - "Ancillary Service Requirements Analysis with Increasing Solar Generation in the ERCOT Interconnection"
 
-**Note:** all of the files presented here are author's copies.
-
 ## Presentations
 
 - “The Open Instance Power System Library (OpenIPSL): A Modelica Library for Phasor Time-Domain Simulations”. User Presentation. Virtual American Modelica Conference, September 2020.
@@ -39,11 +37,11 @@ You can find my full resume [here](./Files/MENCResume.pdf).
 
 - ["Model Transformation for High Performing Smart Grid Applications"](https://www.youtube.com/watch?v=HX4KDLhzN0Y) presented at the NY-BEST Conference, December 2020. 
 
-
+**Note:** all of the files presented here are author's copies.
 
 
 ## Projects 
-You can find out what I am working in my [GitHub](https://github.com/ManuelNvro) page.
+You can find out what I am working on, in my [GitHub](https://github.com/ManuelNvro) page.
 - Programming Languages:
   - C.
   - C++.
