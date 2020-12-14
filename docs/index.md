@@ -6,7 +6,7 @@ I am currently a graduate student at Rensselaer Polytechnic Institue working on 
 - **Pan American Energy** (Buenos Aires, Argentina), Renewable Energy Intern.
 - **KTH Royal Institute of Technology** (Stockholm, Sweden), Undergraduate Research Assistant.
 
-You can find my full resume [here](Files/MENCResume.pdf).
+You can find my full resume [here](./Files/MENCResume.pdf).
 
 ## Education
 
@@ -43,7 +43,7 @@ You can find my full resume [here](Files/MENCResume.pdf).
 
 
 ## Projects 
-You can find out what I am working it in my [GitHub](https://github.com/ManuelNvro) page.
+You can find out what I am working in my [GitHub](https://github.com/ManuelNvro) page.
 - Programming Languages:
   - C.
   - C++.
