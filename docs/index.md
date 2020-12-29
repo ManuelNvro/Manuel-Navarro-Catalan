@@ -61,6 +61,8 @@ You can find out what I am working on, in my [GitHub](https://github.com/ManuelN
   - Docker.
   - Travis-CI.
 
+  I am also an active contributer for the [GridCal](https://gridcal.readthedocs.io/en/latest/about.html) project.
+
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/manuel-navarro-catalan/)
 - email: manuelnavarrocatalan[at]gmail[dot]com
