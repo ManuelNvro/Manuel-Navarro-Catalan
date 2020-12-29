@@ -1,10 +1,10 @@
 I am currently a graduate student at Rensselaer Polytechnic Institue working on power system modeling and software applications. My lab's website can be found [here](https://alsetlab.github.io/).
 
 ## Work Experience
-- **Electric Reliability Coucil of Texas** (Austin, Texas), Operations Analysis Intern.
-- **Rensselaer Polytechnic Institute** (Troy, New York), Graduate Research Assistant.
-- **Pan American Energy** (Buenos Aires, Argentina), Renewable Energy Intern.
-- **KTH Royal Institute of Technology** (Stockholm, Sweden), Undergraduate Research Assistant.
+- **Electric Reliability Coucil of Texas** (Austin, Texas) 2020, Operations Analysis Intern.
+- **Rensselaer Polytechnic Institute** (Troy, New York) 2018-Present Graduate Research Assistant.
+- **Pan American Energy** (Buenos Aires, Argentina) 2018, Renewable Energy Intern.
+- **KTH Royal Institute of Technology** (Stockholm, Sweden) 2017, Undergraduate Research Assistant.
 
 You can find my full resume [here](Files/MENCResume.pdf).
 
