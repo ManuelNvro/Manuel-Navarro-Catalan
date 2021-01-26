@@ -1,8 +1,9 @@
-I am currently a graduate student at Rensselaer Polytechnic Institue working on power system modeling and software applications. My lab's website can be found [here](https://alsetlab.github.io/).
+I am currently an [EDP Engineer](http://www.ercot.com/careers/edp) at [ERCOT](http://www.ercot.com).
 
 ## Work Experience
+- **Electric Reliability Coucil of Texas** (Austin, Texas) Present, EDP Engineer.
 - **Electric Reliability Coucil of Texas** (Austin, Texas) 2020, Operations Analysis Intern.
-- **Rensselaer Polytechnic Institute** (Troy, New York) 2018-Present Graduate Research Assistant.
+- **Rensselaer Polytechnic Institute** (Troy, New York) 2018-2020 Graduate Research Assistant.
 - **Pan American Energy** (Buenos Aires, Argentina) 2018, Renewable Energy Intern.
 - **KTH Royal Institute of Technology** (Stockholm, Sweden) 2017, Undergraduate Research Assistant.
 
