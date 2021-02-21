@@ -21,12 +21,9 @@ You can find my full resume [here](Files/MENCResume.pdf).
 
 ## Publications
 
-- ["Over Current Relay Modeling using Modelica with Cross-Verification against a Validated Model"](Files/Publication1.pdf) presented at the Workshop on Modeling and Simulation of Cyber-Physical Energy Systems in Montreal, Canada April 2019.
+- ["Over Current Relay Modeling using Modelica with Cross-Verification against a Validated Model"](Files/Publication1.pdf) presented at the Workshop on Modeling and Simulation of Cyber-Physical Energy Systems in Montreal Canada April 2019.
 - ["Performance Benchmark of Modelica Time-Domain Power System Automated Simulation using Python"](Files/Publication2.pdf) presented at the Virtual American Modelica Conference September 2020.
-
-**Under Review**
-
-- "Ancillary Service Requirements Analysis with Increasing Solar Generation in the ERCOT Interconnection"
+- "Ancillary Service Requirements Analysis with Increasing Solar Generation in the ERCOT Interconnection" to be presented at the IEEE General Meeting in Washington DC July 2021.
 
 ## Presentations
 
@@ -65,6 +62,6 @@ You can find out what I am working on, in my [GitHub](https://github.com/ManuelN
   I am also an active contributor for the [GridCal](https://gridcal.readthedocs.io/en/latest/about.html) project.
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/manuel-navarro-catalan/)
-- email: manuelnavarrocatalan[at]gmail[dot]com
+- [LinkedIn](https://www.linkedin.com/in/manuel-navarro-catalan/
+)- email: manuelnavarrocatalan[at]gmail[dot]com
 
