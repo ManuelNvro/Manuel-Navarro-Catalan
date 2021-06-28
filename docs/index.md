@@ -49,13 +49,15 @@ You can find out what I am working on, in my [GitHub](https://github.com/ManuelN
   - SQL.
   - Latex.
   - Markdown.
+- Power Systems Tools:
+  - PSS/E.
+  - PowerWorld.
+  - Modelica.
 - Software Tools:
   - Open Modelica.
   - Dymola.
   - MatLab.
   - Octave.
-  - PSS/E.
-  - PowerWorld.
   - MatLab/Simulink.
   - Git.
   - Docker.
