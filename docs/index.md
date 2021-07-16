@@ -40,7 +40,9 @@ You can find my full resume [here](Files/MENCResume.pdf).
 
 ## Projects 
 You can find out what I am working on, in my [GitHub](https://github.com/ManuelNvro) page.
+
 - Programming Languages:
+
   - C.
   - C++.
   - C#.
@@ -49,11 +51,15 @@ You can find out what I am working on, in my [GitHub](https://github.com/ManuelN
   - SQL.
   - Latex.
   - Markdown.
+  
 - Power Systems Tools:
+
   - PSS/E.
   - PowerWorld.
   - Modelica.
+
 - Software Tools:
+
   - Open Modelica.
   - Dymola.
   - MatLab.
