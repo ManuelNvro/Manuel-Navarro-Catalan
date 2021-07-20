@@ -1,1 +1,1 @@
-Manuel Navarro's personal website.
+Manuel Navarro Catalan's personal website.
