@@ -70,7 +70,7 @@ You can find out what I am working on, in my [GitHub](https://github.com/ManuelN
   - Docker.
   - Travis-CI.
 
-  I am also an active contributor for the open-source [GridCal](www.gridcal.org) project.
+  I am also an active contributor for the open-source [GridCal](https://www.gridcal.org) project.
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/manuel-navarro-catalan/)
