@@ -32,9 +32,9 @@ You can find my full resume [here](Files/MENCResume.pdf).
 
 ## Posters
 
-- ["Overcurrent Relay Modeling Using Modelica with Cross-Verification Against a Validated Model"](Files/OverCurrentRelay.pdf) presented at Future Energy Systems Technology Conference in Troy, New York March 2019.
+- **"Overcurrent Relay Modeling Using Modelica with Cross-Verification Against a Validated Model"** presented at Future Energy Systems Technology Conference in Troy, New York March 2019. [slides](Files/OverCurrentRelay.pdf)
 
-- ["Model Transformation for High Performing Smart Grid Applications"](https://www.youtube.com/watch?v=HX4KDLhzN0Y) presented at the NY-BEST Conference, December 2020. 
+- **"Model Transformation for High Performing Smart Grid Applications"** presented at the NY-BEST Conference, December 2020. [video](https://www.youtube.com/watch?v=HX4KDLhzN0Y)
 
 **Note:** all of the files presented here are author's copies.
 
@@ -69,8 +69,10 @@ You can find out what I am working on, in my [GitHub](https://github.com/ManuelN
   - Git.
   - Docker.
   - Travis-CI.
+  - GitHub.
+  - BitBucket.
 
-  I am also an active contributor for the open-source [GridCal](https://www.gridcal.org) project.
+  I am also an active contributor for the open-source [GridCal](http://www.gridcal.org) project.
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/manuel-navarro-catalan/)
