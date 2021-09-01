@@ -21,13 +21,14 @@ You can find my full resume [here](Files/MENCResume.pdf).
 
 ## Publications
 
-- ["Over Current Relay Modeling using Modelica with Cross-Verification against a Validated Model"](Files/Publication1.pdf) presented at the Workshop on Modeling and Simulation of Cyber-Physical Energy Systems in Montreal Canada April 2019.
-- ["Performance Benchmark of Modelica Time-Domain Power System Automated Simulation using Python"](Files/Publication2.pdf) presented at the Virtual American Modelica Conference September 2020.
-- ["Ancillary Service Requirements Analysis with Increasing Solar Generation in the ERCOT Interconnection"]() to be presented at the IEEE General Meeting in Washington DC July 2021.
+- **"Over Current Relay Modeling using Modelica with Cross-Verification against a Validated Model"** presented at the Workshop on Modeling and Simulation of Cyber-Physical Energy Systems in Montreal Canada April 2019. [paper](Files/Publication1.pdf) [video](https://youtu.be/b-7hT0SObqc)
+- **"Performance Benchmark of Modelica Time-Domain Power System Automated Simulation using Python"** presented at the Virtual American Modelica Conference September 2020. [paper](Files/Publication2.pdf) [video](https://youtu.be/1WaauLc3xpc)
+- **"Ancillary Service Requirements Analysis with Increasing Solar Generation in the ERCOT Interconnection"** to be presented at the IEEE General Meeting in Washington DC July 2021. [paper](Files/Publication3.pdf) [video](https://youtu.be/Cr280zKCTYg)
 
 ## Presentations
 
-- “The Open Instance Power System Library (OpenIPSL): A Modelica Library for Phasor Time-Domain Simulations”. User Presentation. Virtual American Modelica Conference, September 2020.
+- **“The Open Instance Power System Library (OpenIPSL): A Modelica Library for Phasor Time-Domain Simulations”**. User Presentation. Virtual American Modelica Conference, September 2020. [video](https://youtu.be/2i3fvgFtcYA)
+- **"Intoduction to Modelica"**. Rensselaer Polytechnic Institute, May 2020. [video](https://youtu.be/OkAr5is7Ix4)
 
 ## Posters
 
