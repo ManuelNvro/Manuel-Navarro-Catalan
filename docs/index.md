@@ -26,9 +26,9 @@ You can find my full resume [here](Files/MENCResume.pdf).
 
 ## Presentations & Posters
 - **"Overcurrent Relay Modeling Using Modelica with Cross-Verification Against a Validated Model"** presented at Future Energy Systems Technology Conference in Troy, New York March 2019. [slides](Files/OverCurrentRelay.pdf)
+- **"Intoduction to Modelica"**. Rensselaer Polytechnic Institute, May 2020. [video](https://youtu.be/OkAr5is7Ix4)
 - **“The Open Instance Power System Library (OpenIPSL): A Modelica Library for Phasor Time-Domain Simulations”**. User Presentation. Virtual American Modelica Conference, September 2020. [video](https://youtu.be/2i3fvgFtcYA)
 - **"Model Transformation for High Performing Smart Grid Applications"** presented at the NY-BEST Conference, December 2020. [video](https://www.youtube.com/watch?v=HX4KDLhzN0Y)
-- **"Intoduction to Modelica"**. Rensselaer Polytechnic Institute, May 2020. [video](https://youtu.be/OkAr5is7Ix4)
 - **"Curso GridCal"**. IEEE PES España, October 2021. [website](https://events.vtools.ieee.org/m/283428)
 
 **Note:** all of the files presented here are author's copies.
@@ -38,7 +38,6 @@ You can find my full resume [here](Files/MENCResume.pdf).
 You can find out what I am working on, in my [GitHub](https://github.com/ManuelNvro) page.
 
 - Programming Languages:
-
   - C.
   - C++.
   - C#.
@@ -49,13 +48,11 @@ You can find out what I am working on, in my [GitHub](https://github.com/ManuelN
   - Markdown.
   
 - Power Systems Tools:
-
   - PSS/E.
   - PowerWorld.
   - Modelica.
 
 - Software Tools:
-
   - Open Modelica.
   - Dymola.
   - MatLab.
