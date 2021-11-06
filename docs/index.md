@@ -11,7 +11,6 @@ I am currently an [EDP Engineer](http://www.ercot.com/careers/edp) at [ERCOT](ht
 You can find my full resume [here](Files/MENCResume.pdf).
 
 ## Education
-
 - **Rensselaer Polytechnic Institute** May 2020 (Troy, New York), Masters of Science: Electrical Engineering.
 - **The University of Texas at Austin** May 2018 (Austin, Texas), Bachelors of Science: Electrical Engineering.
 
@@ -21,22 +20,16 @@ You can find my full resume [here](Files/MENCResume.pdf).
 
 
 ## Publications
-
 - **"Over Current Relay Modeling using Modelica with Cross-Verification against a Validated Model"** presented at the Workshop on Modeling and Simulation of Cyber-Physical Energy Systems in Montreal Canada April 2019. [paper](Files/Publication1.pdf) [video](https://youtu.be/b-7hT0SObqc)
 - **"Performance Benchmark of Modelica Time-Domain Power System Automated Simulation using Python"** presented at the Virtual American Modelica Conference September 2020. [paper](Files/Publication2.pdf) [video](https://youtu.be/1WaauLc3xpc)
 - **"Ancillary Service Requirements Analysis with Increasing Solar Generation in the ERCOT Interconnection"** presented at the IEEE General Meeting in Washington DC July 2021. [paper](Files/Publication3.pdf) [video](https://youtu.be/Cr280zKCTYg)
 
-## Presentations
-
-- **“The Open Instance Power System Library (OpenIPSL): A Modelica Library for Phasor Time-Domain Simulations”**. User Presentation. Virtual American Modelica Conference, September 2020. [video](https://youtu.be/2i3fvgFtcYA)
-- **"Intoduction to Modelica"**. Rensselaer Polytechnic Institute, May 2020. [video](https://youtu.be/OkAr5is7Ix4)
-- **"Curso GridCal"**. IEEE PES España, October 2020. [website](https://events.vtools.ieee.org/m/283428)
-
-## Posters
-
+## Presentations & Posters
 - **"Overcurrent Relay Modeling Using Modelica with Cross-Verification Against a Validated Model"** presented at Future Energy Systems Technology Conference in Troy, New York March 2019. [slides](Files/OverCurrentRelay.pdf)
-
+- **“The Open Instance Power System Library (OpenIPSL): A Modelica Library for Phasor Time-Domain Simulations”**. User Presentation. Virtual American Modelica Conference, September 2020. [video](https://youtu.be/2i3fvgFtcYA)
 - **"Model Transformation for High Performing Smart Grid Applications"** presented at the NY-BEST Conference, December 2020. [video](https://www.youtube.com/watch?v=HX4KDLhzN0Y)
+- **"Intoduction to Modelica"**. Rensselaer Polytechnic Institute, May 2020. [video](https://youtu.be/OkAr5is7Ix4)
+- **"Curso GridCal"**. IEEE PES España, October 2021. [website](https://events.vtools.ieee.org/m/283428)
 
 **Note:** all of the files presented here are author's copies.
 
