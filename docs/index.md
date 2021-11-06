@@ -1,8 +1,9 @@
 I am currently an [EDP Engineer](http://www.ercot.com/careers/edp) at [ERCOT](http://www.ercot.com).
 
 ## Work Experience
-- **Electric Reliability Coucil of Texas** (Austin, Texas) Present, EDP Engineer.
-- **Electric Reliability Coucil of Texas** (Austin, Texas) 2020, Operations Analysis Intern.
+- **Electric Reliability Coucil of Texas** (Austin, Texas) 
+  - Present, EDP Engineer.
+  - 2020, Operations Analysis Intern.
 - **Rensselaer Polytechnic Institute** (Troy, New York) 2018-2020 Graduate Research Assistant.
 - **Pan American Energy** (Buenos Aires, Argentina) 2018, Renewable Energy Intern.
 - **KTH Royal Institute of Technology** (Stockholm, Sweden) 2017, Undergraduate Research Assistant.
@@ -29,6 +30,7 @@ You can find my full resume [here](Files/MENCResume.pdf).
 
 - **“The Open Instance Power System Library (OpenIPSL): A Modelica Library for Phasor Time-Domain Simulations”**. User Presentation. Virtual American Modelica Conference, September 2020. [video](https://youtu.be/2i3fvgFtcYA)
 - **"Intoduction to Modelica"**. Rensselaer Polytechnic Institute, May 2020. [video](https://youtu.be/OkAr5is7Ix4)
+- **Curso GridCal**. IEEE PES España, October 2020. [website](https://events.vtools.ieee.org/m/283428)
 
 ## Posters
 
@@ -71,6 +73,7 @@ You can find out what I am working on, in my [GitHub](https://github.com/ManuelN
   - Travis-CI.
   - GitHub.
   - BitBucket.
+  - Bash.
 
   I am also an active contributor for the open-source [GridCal](http://www.gridcal.org) project.
 
