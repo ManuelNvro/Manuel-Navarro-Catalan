@@ -30,7 +30,7 @@ You can find my full resume [here](Files/MENCResume.pdf).
 
 - **“The Open Instance Power System Library (OpenIPSL): A Modelica Library for Phasor Time-Domain Simulations”**. User Presentation. Virtual American Modelica Conference, September 2020. [video](https://youtu.be/2i3fvgFtcYA)
 - **"Intoduction to Modelica"**. Rensselaer Polytechnic Institute, May 2020. [video](https://youtu.be/OkAr5is7Ix4)
-- **Curso GridCal**. IEEE PES España, October 2020. [website](https://events.vtools.ieee.org/m/283428)
+- **"Curso GridCal"**. IEEE PES España, October 2020. [website](https://events.vtools.ieee.org/m/283428)
 
 ## Posters
 
