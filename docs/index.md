@@ -63,9 +63,8 @@ You can find out what I am working on, in my [GitHub](https://github.com/ManuelN
   - Travis-CI.
   - GitHub.
   - BitBucket.
+  - UPLAN Altos.
   - Bash.
-
-  I am also an active contributor for the open-source [GridCal](http://www.gridcal.org) project.
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/manuel-navarro-catalan/)
