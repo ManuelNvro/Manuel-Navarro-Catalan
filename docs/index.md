@@ -51,13 +51,14 @@ You can find out what I am working on, in my [GitHub](https://github.com/ManuelN
   - PSS/E.
   - PowerWorld.
   - Modelica.
+  - ASPEN.
 
 - Software Tools:
   - Open Modelica.
   - Dymola.
   - MatLab.
   - Octave.
-  - MatLab/Simulink.
+  - Simulink.
   - Git.
   - Docker.
   - Travis-CI.
