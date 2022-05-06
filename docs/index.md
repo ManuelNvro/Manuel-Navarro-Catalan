@@ -1,4 +1,4 @@
-I am currently an Shift Engineer at [ERCOT](http://www.ercot.com).
+I am currently a Shift Engineer at [ERCOT](http://www.ercot.com).
 
 ## Work Experience
 - **Electric Reliability Coucil of Texas** (Austin, Texas) 
