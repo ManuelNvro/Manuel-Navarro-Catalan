@@ -1,8 +1,9 @@
-I am currently an [EDP Engineer](http://www.ercot.com/careers/edp) at [ERCOT](http://www.ercot.com).
+I am currently an Shift Engineer at [ERCOT](http://www.ercot.com).
 
 ## Work Experience
 - **Electric Reliability Coucil of Texas** (Austin, Texas) 
-  - Present, EDP Engineer.
+  - Present, Shift Engineer.
+  - 2021, EDP Engineer.
   - 2020, Operations Analysis Intern.
 - **Rensselaer Polytechnic Institute** (Troy, New York) 2018-2020 Graduate Research Assistant.
 - **Pan American Energy** (Buenos Aires, Argentina) 2018, Renewable Energy Intern.
