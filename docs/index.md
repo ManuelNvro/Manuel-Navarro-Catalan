@@ -19,6 +19,9 @@ You can find my full resume [here](Files/MENCResume.pdf).
  - **Dominion Energy**,  Introduction to Power Systems Modeling and Simulation using the Modelica Language - Richmond, Virginia.
  - **McMaster University** , [Introduction to Modeling and Simulation using the Modelica Language](https://energy.mcmaster.ca/alsetlab-modelica-workshop-hosted-by-mies/) - Ontario, Canada.
 
+## Licenses & Certifications
+- [NERC](https://www.nerc.com/Pages/default.aspx) Reliability Coordinator System Operator.
+
 
 ## Publications
 - **"Over Current Relay Modeling using Modelica with Cross-Verification against a Validated Model"** presented at the Workshop on Modeling and Simulation of Cyber-Physical Energy Systems in Montreal Canada April 2019. [paper](Files/Publication1.pdf) [video](https://youtu.be/b-7hT0SObqc)
@@ -37,6 +40,7 @@ You can find my full resume [here](Files/MENCResume.pdf).
 
 ## Projects 
 You can find out what I am working on, in my [GitHub](https://github.com/ManuelNvro) page.
+
 
 - Programming Languages:
   - C.
@@ -70,7 +74,7 @@ You can find out what I am working on, in my [GitHub](https://github.com/ManuelN
   - UPLAN Altos.
   - Bash.
   - AutoCAD.
-  
+
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/manuel-navarro-catalan/)
