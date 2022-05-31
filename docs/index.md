@@ -47,12 +47,14 @@ You can find out what I am working on, in my [GitHub](https://github.com/ManuelN
   - SQL.
   - Latex.
   - Markdown.
+  - Visual Basic.
   
 - Power Systems Tools:
   - PSS/E.
   - PowerWorld.
   - Modelica.
   - ASPEN.
+  - General Electric Energy Management System (EMS).
 
 - Software Tools:
   - Open Modelica.
@@ -67,6 +69,8 @@ You can find out what I am working on, in my [GitHub](https://github.com/ManuelN
   - BitBucket.
   - UPLAN Altos.
   - Bash.
+  - AutoCAD.
+  
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/manuel-navarro-catalan/)
