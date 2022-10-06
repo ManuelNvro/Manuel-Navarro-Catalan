@@ -21,12 +21,18 @@ You can find my full resume [here](Files/MENCResume.pdf).
 
 ## Licenses & Certifications
 - [NERC](https://www.nerc.com/Pages/default.aspx) Reliability Coordinator System Operator.
+- [NCEES](https://ncees.org) Engineer in Training. 
 
 
 ## Publications
 - **"Over Current Relay Modeling using Modelica with Cross-Verification against a Validated Model"** presented at the Workshop on Modeling and Simulation of Cyber-Physical Energy Systems in Montreal Canada April 2019. [paper](Files/Publication1.pdf) [video](https://youtu.be/b-7hT0SObqc)
-- **"Performance Benchmark of Modelica Time-Domain Power System Automated Simulation using Python"** presented at the Virtual American Modelica Conference September 2020. [paper](Files/Publication2.pdf) [video](https://youtu.be/1WaauLc3xpc)
+- **"Performance Benchmark of Modelica Time-Domain Power System Automated Simulation using Python"** co-author presented at the Virtual American Modelica Conference September 2020. [paper](Files/Publication2.pdf) [video](https://youtu.be/1WaauLc3xpc)
 - **"Ancillary Service Requirements Analysis with Increasing Solar Generation in the ERCOT Interconnection"** presented at the IEEE General Meeting in Washington DC July 2021. [paper](Files/Publication3.pdf) [video](https://youtu.be/Cr280zKCTYg)
+- **Version [OpenIPSL 2.0.0] - [iTesla Power Systems Library (iPSL): A Modelica library for phasor time-domain simulations]** co-author submitted to SoftwareX, 2022.
+- **Template-Based Model Transformation
+Between Proprietary Tools and Modelica: Increasing Portability of Power System Models** co-author prepared for Sustainable Energy, Grids and Networks, 2022.
+- **Template-Based Model Transformation Tool for
+Modelica-based Power System Representations** co-author, in preparation for SoftwareX.
 
 ## Presentations & Posters
 - **"Overcurrent Relay Modeling Using Modelica with Cross-Verification Against a Validated Model"** presented at Future Energy Systems Technology Conference in Troy, New York March 2019. [slides](Files/OverCurrentRelay.pdf)
