@@ -40,6 +40,7 @@ Modelica-based Power System Representations** co-author, in preparation for Soft
 - **“The Open Instance Power System Library (OpenIPSL): A Modelica Library for Phasor Time-Domain Simulations”**. User Presentation. Virtual American Modelica Conference, September 2020. [video](https://youtu.be/2i3fvgFtcYA)
 - **"Model Transformation for High Performing Smart Grid Applications"** presented at the NY-BEST Conference, December 2020. [video](https://www.youtube.com/watch?v=HX4KDLhzN0Y)
 - **"Curso GridCal"**. IEEE PES España, October 2021. [website](https://events.vtools.ieee.org/m/283428)
+- **“Model Transformation for Smart Grid Applications”** 16th MODPROD Workshop on Model-Based Cyber-Physical Product Development, February 2022. [slides](Files/ModelTransformation.pdf)
 
 **Note:** all of the files presented here are author's copies.
 
